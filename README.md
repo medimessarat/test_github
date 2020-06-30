@@ -51,4 +51,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 
 This repository is for me and my colleague to try different github commands
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. 2020 Mehdi Messarat
